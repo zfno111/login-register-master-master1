@@ -1,0 +1,10 @@
+
+.gitignore
+.idea/
+LICENSE
+README.md
+login/
+manage.py
+mysite/
+requirements.txt
+sendmail.py
